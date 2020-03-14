@@ -1,0 +1,25 @@
+# ignore all
+
+*.*
+Gadget2
+
+# whitelist
+
+!.gitignore
+!.gitattributes
+!*.pro
+!*.md
+!*.sh
+!*.c
+!*py
+!Makefile
+!*.ipynb
+
+# idldoc
+# !*.html
+# !*.js
+# !*.css
+
+# git lfs
+# !*.csv
+# !*.png
